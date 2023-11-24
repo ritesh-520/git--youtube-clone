@@ -1,0 +1,21 @@
+p{
+    font-family:"Roboto","Arial",sans-serif;
+    margin:0px;
+}
+.body-background{
+    background-color:white;
+ margin:0;
+ display:flex;
+ padding-top:65px;
+ padding-left:270px;
+ height:800px;
+ padding-right:20px;
+}
+div{
+    color:black;
+    font-family:"Roboto","Arial",sans-serif;
+    
+}
+img{
+    border-radius:25px;
+}
